@@ -1,0 +1,17 @@
+{
+  "name": "day3homeworkarray",
+  "version": "1.0.0",
+  "description": "Assignment day 3 homework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "10 funcationality of array"
+  ],
+  "author": "jiswant kumar",
+  "license": "ISC",
+  "dependencies": {
+    "array-utils": "^0.0.6"
+  }
+}
